@@ -144,7 +144,7 @@
       <uiProperties shellMaximized="true"/>
       <varTables sizeState="INTERMEDIATE" name="Var" minimized="true"/>
       <outputTables sizeState="INTERMEDIATE" name="out1">
-        <mapperTableEntries name="Number" expression="row2.Number " type="id_Integer" nullable="true"/>
+        <mapperTableEntries name="Number" expression="row1.Number " type="id_Integer" nullable="true"/>
         <mapperTableEntries name="Key" expression="context.Result" type="id_Integer" nullable="true"/>
       </outputTables>
       <inputTables sizeState="INTERMEDIATE" name="row1" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE">
