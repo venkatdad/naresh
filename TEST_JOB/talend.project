@@ -346,4 +346,6 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_dAcFgi6HEeiIkLljvV8-Cg" login="admin@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_dSI5gC6HEeiIkLljvV8-Cg" login="parimel@gmail.com" firstName="parimel" lastName="azhgan" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_iW5JYS8iEeiZN-5iPOw4Ww" login="nani@gmail.com" firstName="Nani" lastName="Gopu" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_iW5JYi8iEeiZN-5iPOw4Ww" login="suresh@company.com" firstName="suresh" lastName="k" type="DI" additionnalData="{}"/>
 </xmi:XMI>
