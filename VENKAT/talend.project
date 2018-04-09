@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_AKfH0TvCEei4Od3eEAwWfQ" label="Venkat" description="" language="java" technicalLabel="VENKAT" creationDate="2018-04-09T12:11:16.800+0530" author="_AKfH0jvCEei4Od3eEAwWfQ" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/venkatdad/naresh.git&quot;,&quot;login&quot;:&quot;venkatdad&quot;,&quot;passwd&quot;:&quot;27Juy+2v61HSNdEZ6ZMb7w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_AKfH0TvCEei4Od3eEAwWfQ" label="Venkat" description="" language="java" technicalLabel="VENKAT" creationDate="2018-04-09T12:11:16.800+0530" author="_AKfH0jvCEei4Od3eEAwWfQ" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/venkatdad/naresh.git&quot;,&quot;login&quot;:&quot;venkatdad&quot;,&quot;passwd&quot;:&quot;27Juy+2v61HSNdEZ6ZMb7w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <technicalStatus xmi:id="_AUszwDvCEei4Od3eEAwWfQ" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_AUszwTvCEei4Od3eEAwWfQ" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_AUszwjvCEei4Od3eEAwWfQ" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_AUD6kDvCEei4Od3eEAwWfQ" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_AUD6kTvCEei4Od3eEAwWfQ" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_AUD6kjvCEei4Od3eEAwWfQ" label="validated" code="VAL"/>
     <migrationTask xmi:id="_ARYaADvCEei4Od3eEAwWfQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_ARYaATvCEei4Od3eEAwWfQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_ARYaAjvCEei4Od3eEAwWfQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -21,4 +27,7 @@
     <migrationTask xmi:id="_ARYaETvCEei4Od3eEAwWfQ" id="org.talend.repository.model.migration.AddProductValuesItemMigrationTask" breaks="6.5.0" version="6.5.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_AKfH0jvCEei4Od3eEAwWfQ" login="nare@gmail.com" firstName="naresh" lastName="gopu" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_AVBj4DvCEei4Od3eEAwWfQ" login="naresh@gmail.com" firstName="naresh" lastName="Chowdary" type="DI" additionnalData="{}">
+    <projectAuthorization href="../C:/Talend/6.5.1/studio/#/"/>
+  </TalendProperties:User>
 </xmi:XMI>
