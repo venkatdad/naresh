@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_ZV7xsTvEEei4Od3eEAwWfQ" name="SALGRADE" dataPackage="_ZV7xsjvEEei4Od3eEAwWfQ" Server="Localhost 127.0.0.1" FilePath="D:/Files/Default Oracle Tables/salgrade.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_ZV7xsjvEEei4Od3eEAwWfQ" name="default" dataManager="_ZV7xsTvEEei4Od3eEAwWfQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ZV7xszvEEei4Od3eEAwWfQ" id="_RB3CsDvEEei4Od3eEAwWfQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZV7xtDvEEei4Od3eEAwWfQ" label="grade" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZV7xtTvEEei4Od3eEAwWfQ" label="losal" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZV7xtjvEEei4Od3eEAwWfQ" label="hisal" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
